@@ -1,0 +1,1 @@
+#Nesta asta deve guarda apenas programas de computador gerados em um editor de linguagem(java, sql, etc...)
